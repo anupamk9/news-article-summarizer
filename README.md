@@ -5,7 +5,7 @@
 Welcome to the Advanced Data Analytics Project  🚀 This project focuses on evaluating machine learning models for news article classification. The goal is to preprocess data, implement various algorithms, analyze results using key metrics, and document the findings.
 
 **Evaluating Machine Learning for News Article Classification: Metrics, Insights, and Best Practices**
-
+ [[Medium blog post](https://medium.com/@anupam.kumar_40930/evaluating-machine-learning-for-news-article-ab9df74b820c?source=friends_link&sk=0121b43d8a0aea74547d7fa167dea049)]
 ## Project Components
 
 1. **Domain & Problem Statement** 🗂️
@@ -53,8 +53,6 @@ Welcome to the Advanced Data Analytics Project  🚀 This project focuses on eva
   - `matplotlib` 📈, `seaborn` 🌈: For visualization
 
 - **Environment:** Jupyter Notebook 💻
-
-![Company Logo](link-to-your-company-logo.png)
 
 ## Code Examples
 
@@ -145,7 +143,7 @@ X_train, X_test, y_train, y_test = train_test_split(X_tfidf, y, test_size=0.2, r
 
 ## Documentation 📚
 
-For a detailed discussion on the implementation and evaluation of these models, please refer to the [[Medium blog post](https://medium.com/@anupam.kumar_40930/evaluating-machine-learning-for-news-article-ab9df74b820c?source=friends_link&sk=0121b43d8a0aea74547d7fa167dea049)](#).
+For a detailed discussion on the implementation and evaluation of these models, please refer to the [[Medium blog post](https://medium.com/@anupam.kumar_40930/evaluating-machine-learning-for-news-article-ab9df74b820c?source=friends_link&sk=0121b43d8a0aea74547d7fa167dea049)].
 
 ## Contribution & Contact 📧
 
