@@ -145,7 +145,5 @@ X_train, X_test, y_train, y_test = train_test_split(X_tfidf, y, test_size=0.2, r
 
 For a detailed discussion on the implementation and evaluation of these models, please refer to the [[Medium blog post](https://medium.com/@anupam.kumar_40930/evaluating-machine-learning-for-news-article-ab9df74b820c?source=friends_link&sk=0121b43d8a0aea74547d7fa167dea049)].
 
-## Contribution & Contact 📧
 
-For any questions or contributions, please contact [Your Email/Contact Info].
 
