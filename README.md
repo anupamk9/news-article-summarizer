@@ -2,9 +2,9 @@
 
 ## Overview
 
-Welcome to the Advanced Data Analytics Project for MCA472A! 🚀 This project focuses on evaluating machine learning models for news article classification. The goal is to preprocess data, implement various algorithms, analyze results using key metrics, and document the findings.
+Welcome to the Advanced Data Analytics Project  🚀 This project focuses on evaluating machine learning models for news article classification. The goal is to preprocess data, implement various algorithms, analyze results using key metrics, and document the findings.
 
-**Submission Deadline:** 15 August 2024
+**Evaluating Machine Learning for News Article Classification: Metrics, Insights, and Best Practices**
 
 ## Project Components
 
